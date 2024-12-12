@@ -1,0 +1,16 @@
+{
+    "name": "Test",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+      "actions"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "fs": "^0.0.1-security",
+      "path": "^0.12.7"
+    }
+  }
